@@ -1,0 +1,38 @@
+# Folders #
+###########
+alias/
+apps/
+lang/
+logs/
+scripts/
+tmp/
+WebbserverNTI/
+tools/
+vhosts/
+www/projekt/
+sendmail/
+
+# Errors/Logs #
+###############
+*error*
+*log*
+
+
+# Files #
+#########
+barimage.bmp
+images_off.bmp
+images_on.bmp
+license.txt
+unins000.dat
+uninstall_services.bat
+wampmanager.tpl
+libeay32.dll
+crash*.txt
+
+# File types#
+#############
+*.err
+*.log
+*.exe
+*.pid
